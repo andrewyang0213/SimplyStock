@@ -1,7 +1,7 @@
 # SimplyStock
  Fullstack web application that simplifies company stock data
 
-# Frontend
+## Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
